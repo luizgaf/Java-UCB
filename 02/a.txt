@@ -1,0 +1,20 @@
+Exercícios da Aula
+ Crie um aplicativo que mantém o saldo de uma conta bancária, realiza depósito e mostra o
+saldo da conta. Realize depósitos e apresente ao usuário seu saldo. Dica: utilize o método
+nextDouble da classe Scanner .)
+
+ Refaça os exercícios da seção anterior que utiliza a classe Scanner com a classe JOptionPane .
+Dica: utilize o método static parseInt da classe Integer para converter String para Int ).
+
+ Modifique a classe Chamada com: Inclua uma variável de instância String que representa o
+nome do professor do curso; Forneça os métodos set e get para alterar e recuperar o nome do
+professor, respectivamente; Modifique o construtor para especificar dois parâmetros;
+Modifique o método chamada para gerar a saída de mensagem para o nome do curso e nome
+do professor.
+
+ Crie uma classe chamada Date que inclua três variáveis de instância — mês (tipo int ), dia (tipo
+int ) e ano (tipo int ). Forneça um construtor que inicializa as três variáveis de instância e
+suponha que os valores fornecidos estejam corretos. Forneça um método set e um get para
+Introdução a Classe, Métodos e Objetos10cada variável de instância. Forneça um método displayDate que exibe o mês, o dia e o ano
+separados por barras normais (/). Escreva um aplicativo de teste chamado DateTest que
+demonstra as capacidades da classe Date .
