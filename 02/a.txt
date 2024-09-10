@@ -1,7 +1,7 @@
 Exercícios da Aula
  Crie um aplicativo que mantém o saldo de uma conta bancária, realiza depósito e mostra o
 saldo da conta. Realize depósitos e apresente ao usuário seu saldo. Dica: utilize o método
-nextDouble da classe Scanner .)
+nextDouble da classe Scanner .
 
  Refaça os exercícios da seção anterior que utiliza a classe Scanner com a classe JOptionPane .
 Dica: utilize o método static parseInt da classe Integer para converter String para Int ).
