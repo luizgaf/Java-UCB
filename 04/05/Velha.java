@@ -108,9 +108,9 @@ public class Velha{
             while(verifier){
                 System.out.println("Your turn: Player "+ playerNumber);
                 printTabuleiro();
-                System.out.println("Digite as coordenadas 1 2 3 ( LINHA ) e 1 2 3 ( COLUNA )");
-                int x = sc.nextInt(); 
-                int y = sc.nextInt();
+                System.out.println("Digite as coordenadas 1 2 3 ( COLUNA ) e 1 2 3 ( LINHA )");
+                int y = sc.nextInt(); 
+                int x = sc.nextInt();
                 verifier = play(x, y, playerNumber);
             }
             if(isWin()){
